@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project.
           
       - name: run script
-        run: run: bash ./script.sh
+        run: bash ./script.sh
